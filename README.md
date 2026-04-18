@@ -61,10 +61,6 @@
 
 > 🍜 **[whatNext](https://github.com/cchamb26/whatnext)**
 > Full-stack food recommender. GPT-4o analyzes up to 30 recent meals to suggest your next one with reasoning and a simple recipe. TypeScript + Swift + Node.js.
-
-> ♠️ **[Poker Coach](https://github.com/cchamb26/poker-coach)**
-> React training tool that manages hand state and visualizes hand-strength probabilities. GPT-o3 suggests alternative lines of play in natural language.
-
 ---
 
 <p align="center">
@@ -74,8 +70,4 @@
   <a href="https://github.com/cchamb26">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cchamb26&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
 </p>
