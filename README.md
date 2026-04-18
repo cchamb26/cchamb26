@@ -56,6 +56,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cchamb26&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
-</p>
