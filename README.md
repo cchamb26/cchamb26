@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/cchamb26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=560&lines=Full-stack+engineer+%2B+iOS+developer;Shipping+TypeScript%2C+Swift%2C+and+LLM+projects;PatriotHacks+2025+%F0%9F%8F%86;Arch+Linux+%2B+Neovim+daily+driver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=560&lines=Full-stack+engineer+%2B+iOS+developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,6 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 ---
 
 ### 📊 Stats
@@ -55,4 +54,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
