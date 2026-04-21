@@ -32,14 +32,14 @@
 
 ### 🚀 Featured projects
 
-> 🏆 **[ConsilAI Classroom Assistant](https://github.com/cchamb26/consilai)** — *PatriotHacks 2025 Winner*
+> 🏆 **[ConsilAI Classroom Assistant](https://github.com/cchamb26/consilai)** -*PatriotHacks 2025 Winner*
 > AI lesson planner with a custom seating algorithm (RBSB) that balances student academic, behavioral, and support-needs scores. Built with Next.js, TypeScript, and Azure OpenAI.
 
-> 📱 **[moreTime](https://github.com/cchamb26/moretime)**
+> 📱 **[moreTime](https://github.com/cchamb26/moretime)** -
 *HooHacks Submission*
 > iOS task manager for students. Course-grouped tasks, syllabus uploads, semester planner, and post-completion learning debriefs that feed an integrated AI chat. Swift + SwiftUI.
 
-> 🍜 **[whatNext](https://github.com/cchamb26/whatnext)**
+> 🍜 **[whatNext](https://github.com/cchamb26/whatnext)** -
 *Personal Project*
 > Full-stack food recommender. GPT-4o analyzes up to 30 recent meals to suggest your next one with reasoning and a simple recipe. TypeScript + Swift + Node.js.
 
