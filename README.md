@@ -32,7 +32,7 @@
 
 ### 🚀 Featured projects
 
-> 🏆 **[ConsilAI Classroom Assistant](https://github.com/cchamb26/consilai)** -*PatriotHacks 2025 Winner*
+> 🏆 **[ConsilAI Classroom Assistant](https://github.com/cchamb26/consilai)** - *PatriotHacks 2025 Winner*
 > AI lesson planner with a custom seating algorithm (RBSB) that balances student academic, behavioral, and support-needs scores. Built with Next.js, TypeScript, and Azure OpenAI.
 
 > 📱 **[moreTime](https://github.com/cchamb26/moretime)** -
